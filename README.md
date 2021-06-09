@@ -1,13 +1,13 @@
 # hse21_H3K4me3_G4_human
 
 Изначально скачаем исходные .bed файлы, конвертируе их к hg19 и постороим гистограмы распределения длин.
-### ENCFF982DUT нв сборке hg38
+### ENCFF982DUT на сборке hg38
 ![alt text](https://github.com/mirabu2801/hse21_H3K4me3_G4_human/blob/master/images/len_hist.H3K4me3_HepG2.ENCFF982DUT.hg38-1.png)
-### ENCFF982DUT нв сборке hg19
+### ENCFF982DUT на сборке hg19
 ![alt text](https://github.com/mirabu2801/hse21_H3K4me3_G4_human/blob/master/images/len_hist.H3K4me3_HepG2.ENCFF982DUT.hg19-1.png)
-### ENCFF549DKP нв сборке hg38
+### ENCFF549DKP на сборке hg38
 ![alt text](https://github.com/mirabu2801/hse21_H3K4me3_G4_human/blob/master/images/len_hist.H3K4me3_HepG2.ENCFF549DKP.hg38-1.png)
-### ENCFF549DKP нв сборке hg19
+### ENCFF549DKP на сборке hg19
 ![alt text](https://github.com/mirabu2801/hse21_H3K4me3_G4_human/blob/master/images/len_hist.H3K4me3_HepG2.ENCFF549DKP.hg19-1.png)
 
 ### Теперь уберем слишком длинные, те которые больше 4000 и опять построим гистограмы
