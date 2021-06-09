@@ -28,8 +28,9 @@ ENCFF549DKP
 ## Построим распрделение вторичной структуры
 ![alt text](https://github.com/mirabu2801/hse21_H3K4me3_G4_human/blob/master/images/imageschip_seeker.G4_seq_Li_K.plotAnnoPie-1.png)
 
-## Получим файл пересечение пиков и вторичной структуры ДНК. Построим для него гистограмму
+## Получим файл пересечение пиков и вторичной структуры ДНК. Построим для него гистограмму и пай чарт
 ![alt text](https://github.com/mirabu2801/hse21_H3K4me3_G4_human/blob/master/images/len_hist.H3K4me3_HepG2.intersect_with_G4_seq_Li_K-1.png)
+![alt text](https://github.com/mirabu2801/hse21_H3K4me3_G4_human/blob/master/images/imageschip_seeker.H3K4me3_HepG2.intersect_with_G4_seq_Li_K.plotAnnoPie.png)
 
 ## Визуализируем полученные пересечения в GenomeBrowser
 
